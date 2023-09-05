@@ -1,0 +1,110 @@
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.mainForm.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.Properties.Resources.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.exe
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.pdb
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.exe.config
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.exe
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.pdb
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.InputParametersForm.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.TablesForm.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.DrawingForm.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.ReportForm.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MTP.csproj.CopyComplete
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.AddTableForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\bin\Debug\MPE.exe.config
+C:\Users\dynka\source\repos\MTP\MPE\bin\Debug\MPE.exe
+C:\Users\dynka\source\repos\MTP\MPE\bin\Debug\MPE.pdb
+C:\Users\dynka\source\repos\MTP\MPE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.AddTableForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.DrawingForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.reportForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.TablesForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.MainForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.InputParametersForm.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.Properties.Resources.resources
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MTP.csproj.CopyComplete
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.exe
+C:\Users\dynka\source\repos\MTP\MPE\obj\Debug\MPE.pdb
+D:\My\Projects\MTP\MTP\MPE\bin\Debug\MPE.exe.config
+D:\My\Projects\MTP\MTP\MPE\bin\Debug\MPE.exe
+D:\My\Projects\MTP\MTP\MPE\bin\Debug\MPE.pdb
+D:\My\Projects\MTP\MTP\MPE\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\My\Projects\MTP\MTP\MPE\bin\Debug\Interop.AcroPDFLib.dll
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.AddTableForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.DrawingForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.reportForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.TablesForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.MainForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.InputParametersForm.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.Properties.Resources.resources
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MTP.csproj.CopyComplete
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.exe
+D:\My\Projects\MTP\MTP\MPE\obj\Debug\MPE.pdb
+D:\My\Образование\Projects\MTP\MPE\bin\Debug\MPE.exe.config
+D:\My\Образование\Projects\MTP\MPE\bin\Debug\MPE.exe
+D:\My\Образование\Projects\MTP\MPE\bin\Debug\MPE.pdb
+D:\My\Образование\Projects\MTP\MPE\bin\Debug\Interop.AcroPDFLib.dll
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.AddTableForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.DrawingForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.reportForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.TablesForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.MainForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.InputParametersForm.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.Properties.Resources.resources
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MTP.csproj.CopyComplete
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.exe
+D:\My\Образование\Projects\MTP\MPE\obj\Debug\MPE.pdb
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\bin\Debug\MPE.exe.config
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\bin\Debug\MPE.exe
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\bin\Debug\MPE.pdb
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.AddTableForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.DrawingForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.reportForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.TablesForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.MainForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.InputParametersForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.Properties.Resources.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MTP.csproj.CopyComplete
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.exe
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\Новая папка\MPE\obj\Debug\MPE.pdb
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\bin\Debug\MPE.exe.config
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\bin\Debug\MPE.exe
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\bin\Debug\MPE.pdb
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.csproj.AssemblyReference.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.AddTableForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.DrawingForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.reportForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.TablesForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.MainForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.InputParametersForm.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.Properties.Resources.resources
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.csproj.GenerateResource.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.csproj.CoreCompileInputs.cache
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MTP.csproj.CopyComplete
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.exe
+C:\Users\_Asus_\Documents\Study\Курсач 6 семак\MTP\MPE\obj\Debug\MPE.pdb

@@ -1,0 +1,12 @@
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.exe.config
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.exe
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\bin\Debug\MPE.pdb
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.csproj.AssemblyReference.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.csproj.SuggestedBindingRedirects.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.Form1.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.Properties.Resources.resources
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.csproj.GenerateResource.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.csproj.CoreCompileInputs.cache
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.exe
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.pdb
+C:\Users\artdesert\source\repos\Алгоритмы и структуры данных 2023\MPE\MPE\obj\Debug\MPE.InputParameters.resources
